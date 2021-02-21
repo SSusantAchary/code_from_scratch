@@ -1,3 +1,10 @@
+'''
+code = resnet 50,101,152
+framework = pytorch
+author= susant achary
+email= sache.meet@yahoo.com
+'''
+
 import torch
 import torch.nn as nn
 

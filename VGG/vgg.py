@@ -1,3 +1,11 @@
+'''
+code = VGG net (11,13,16,19)
+framework = pytorch
+author= susant achary
+email= sache.meet@yahoo.com
+'''
+
+
 import torch
 import torch.nn as nn
 from torch.nn.modules.dropout import Dropout
