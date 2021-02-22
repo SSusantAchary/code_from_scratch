@@ -1,9 +1,9 @@
-"""
+'''
 code = plain Neural Network
 framework = pytorch
 author= susant achary
 email= sache.meet@yahoo.com
-"""
+'''
 
 #import
 import torch
